@@ -72,7 +72,7 @@ h4  {
 }
 
 h5 {
-  color: blue;
+  color: #033048;
   text-align: center;
   font-size: 24px;
   font-weight: bold;
@@ -85,7 +85,10 @@ h5 {
   border-radius: 10px 10px 10px 10px;
   margin: auto;
 }
-
+blockquote {
+  text-align: center;
+  width: 580px;
+}
 .benefits {
   background-color: #F2F6F5;
   width: auto;
